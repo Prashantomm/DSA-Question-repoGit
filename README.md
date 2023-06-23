@@ -1,3 +1,3 @@
 #  All important DSA-Question
-LANGUAGE: JavaScript..
+LANGUAGE: JavaScript...
 
