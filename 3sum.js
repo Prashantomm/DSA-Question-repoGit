@@ -1,4 +1,4 @@
-...
+..
 function  threeSum(n,arr){
     arr.sort((a,b)=>a-b);
     let triplets = [];
