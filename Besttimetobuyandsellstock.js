@@ -1,4 +1,4 @@
-qqq..
+qqq..q
 function stock(n,arr){
     let minPrice = arr[0];
      let maxProfit = 0;
