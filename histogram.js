@@ -1,4 +1,4 @@
-
+.
 function calculateMaxRectangleArea(histogram) {
     const stack = [];
     let maxArea = 0;
